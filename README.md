@@ -7,7 +7,7 @@ Welcome to my GitHub Pages project where I'm learning **Markdown**!
 
 ![Build Status](https://img.shields.io/badge/build-passing-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Contributors](https://img.shields.io/github/contributors/your-username/your-repo)
+![Contributors](https://img.shields.io/github/contributors/DGAMERLY/your-repo)
 
 ## Image Example
 
