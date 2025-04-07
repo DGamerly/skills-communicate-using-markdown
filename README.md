@@ -20,3 +20,6 @@ def say_hello():
 ### This is a third-level header
 
 Markdown headers go from `#` (largest) to `######` (smallest).
+
+# Python Code Example Repository
+This repository contains various Python code examples, including a simple example of how to print "Hello, Markdown!" to the console.
