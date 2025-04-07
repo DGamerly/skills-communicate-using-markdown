@@ -1,3 +1,6 @@
+# Header 1
+## Header 2
+### Header 3
 # My Markdown Practice
 
 Welcome to my GitHub Pages project where I'm learning **Markdown**!
