@@ -5,6 +5,10 @@
 
 Welcome to my GitHub Pages project where I'm learning **Markdown**!
 
+![Build Status](https://img.shields.io/badge/build-passing-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Contributors](https://img.shields.io/github/contributors/your-username/your-repo)
+
 ## Image Example
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
