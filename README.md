@@ -9,6 +9,10 @@ Welcome to my GitHub Pages project where I'm learning **Markdown**!
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+```python
+def say_hello():
+    print("Hello, Markdown!")
+
 ## Header Example
 
 ### This is a third-level header
