@@ -13,6 +13,9 @@ Welcome to my GitHub Pages project where I'm learning **Markdown**!
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+
+![Project Screenshot](https://github.com/DGamerly/skills-communicate-using-markdown/blob/main/Dav.jpg?raw=true)
+
 [View Code Example](#code-example)
 
 ```python
