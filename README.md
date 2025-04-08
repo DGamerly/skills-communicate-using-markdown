@@ -16,7 +16,15 @@ Welcome to my GitHub Pages project where I'm learning **Markdown**!
 
 ![Project Screenshot](https://github.com/DGamerly/skills-communicate-using-markdown/blob/main/Dav.jpg?raw=true)
 
+
+
+## Issues
+
+Found a bug or have a feature request?  
+[Open an issue](https://github.com/DGamerly/skills-communicate-using-markdown/issues) and let us know!
+
 [View Code Example](#code-example)
+
 
 ```python
 def say_hello():
